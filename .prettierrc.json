@@ -1,0 +1,10 @@
+{
+    "singleQuote": true,
+    "bracketSpacing": true,
+    "printWidth": 300,
+    "tabWidth": 4,
+    "useTabs": false,
+    "rules": {
+        "indent": [4, "tab"]
+    }
+}
